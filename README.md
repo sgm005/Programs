@@ -1,4 +1,4 @@
-Python Projects 
+ 
 Welcome to my Python Projects repository. In this collection, you’ll find some small but practical Python projects I’ve been working on to build my skills. Each project solves a real-world problem or automates a task, ranging from a password generator to a web scraper.
 
 
